@@ -1,4 +1,4 @@
-import 'package:card_picker_widget_ui/card_picker.dart';
+import 'package:flutter_ui/card_picker.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());

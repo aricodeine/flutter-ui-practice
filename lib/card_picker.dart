@@ -103,7 +103,7 @@ class _CardPickerState extends State<CardPicker> {
                             style: TextStyle(),
                           ),
                           Image.asset(
-                            'assets/chip_image.png',
+                            'assets/card_picker/chip_image.png',
                             height: 70,
                           ),
                           const Text(
